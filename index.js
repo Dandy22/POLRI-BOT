@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const bot = new Discord.Client
-const token = 'ODM1NzE3NDk2MDgxMjE5NjI0.YITgkQ.6CiApQG79DWZItV2u53k4KmunJg'
+const token = ''
 const {Client, RichEmbed} = require('discord.js')
 
 const Prefix = 's'
